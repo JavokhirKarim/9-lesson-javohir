@@ -244,6 +244,10 @@ header {
   color: #08546c;
   padding-bottom: 70px;
 }
+.card2-img {
+  width: 515px;
+  height: 386px;
+}
 .card {
   max-width: 273px;
   height: 251px;
