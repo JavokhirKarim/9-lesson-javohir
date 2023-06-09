@@ -244,6 +244,10 @@ header {
   color: #08546c;
   padding-bottom: 70px;
 }
+.card2-content a {
+  text-decoration-line: none;
+  text-align: start;
+}
 /* .card2-img { */
 /* width: 515px;
   height: 386px;
